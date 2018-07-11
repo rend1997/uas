@@ -1,0 +1,4 @@
+#Wed Jul 11 11:41:04 ICT 2018
+base.0=D\:\\1567\\GIS\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\1567\\GIS\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
